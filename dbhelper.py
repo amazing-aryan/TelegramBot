@@ -1,6 +1,6 @@
 import sqlite3
 
-
+#database management
 class DBHelper:
 
     def __init__(self, dbname="todo.sqlite"):
