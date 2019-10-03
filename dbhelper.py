@@ -1,8 +1,11 @@
+#repository by aryan verma 
+# on codechef https://www.codechef.com/users/aryan_amazing
+
 import sqlite3
 
 
 class DBHelper:
-
+        #constructor for this class 
     def __init__(self, dbname="todo.sqlite"):
         self.dbname = dbname
         self.conn = sqlite3.connect(dbname)
