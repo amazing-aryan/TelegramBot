@@ -1,5 +1,4 @@
 #repository by aryan verma 
-# on codechef https://www.codechef.com/users/aryan_amazing
 
 import sqlite3
 
