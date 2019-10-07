@@ -2,7 +2,7 @@
 
 import sqlite3
 
-
+#database management
 class DBHelper:
         #constructor for this class 
     def __init__(self, dbname="todo.sqlite"):
